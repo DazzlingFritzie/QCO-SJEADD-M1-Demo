@@ -6,10 +6,17 @@ public class sample {
 		 
 
 		System.out.println("Sample by FW dev");
+
+
+		System.out.println("Sample by FW dev");
 		
 		System.out.println("hii");
 
+
 		System.out.println("Sample by FW dev");
+
+		System.out.println("Sasmple by FW dev");
+
 		
 
 		System.out.println("hi there");
